@@ -131,7 +131,7 @@ i {
 }
 
 
-@media(width <=768px){
+@media(421px <width <=768px){
   .card{
     width: 50rem !important;
     height: auto;
