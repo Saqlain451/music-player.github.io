@@ -133,7 +133,7 @@ i {
 
 @media(width <=768px){
   .card{
-    width: 60% !important;
+    width: 50rem !important;
     height: auto;
   }
 }
