@@ -129,11 +129,3 @@ i {
       transform: rotate(360deg);
   }
 }
-
-
-@media(421px <width <=768px){
-  .card{
-    width: 50rem !important;
-    height: auto;
-  }
-}
